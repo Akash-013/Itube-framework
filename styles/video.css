@@ -4,6 +4,10 @@ p {
     margin-bottom: 0;
 }
 
+.video-preview:hover {
+    background-color: rgba(0, 0, 0, 0.096);
+}
+
 .thumbnail {
     width: 100%;
 }
